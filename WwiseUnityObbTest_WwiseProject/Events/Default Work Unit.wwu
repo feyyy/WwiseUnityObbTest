@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E8C74977-FB93-49E0-93EE-1D43391F1A49}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{E8C74977-FB93-49E0-93EE-1D43391F1A49}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Event1" ID="{C59C49B2-885A-4049-BA86-0C4A045D64F2}">
+					<ChildrenList>
+						<Action Name="" ID="{14CD44C8-FE35-4DB3-AD65-9CF485F2687B}" ShortID="616928785">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sound98" ID="{8436DAF1-CEFD-4347-A721-B4CA70690173}" WorkUnitID="{C1E8D710-CB3B-4C7D-92FC-A80CD6BD88DE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Event2" ID="{2B0DCD4E-048E-4374-9721-92883A6D2441}">
+					<ChildrenList>
+						<Action Name="" ID="{A324D65D-0307-497B-9A2E-25146962F7A0}" ShortID="681037395">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sound105" ID="{3A4ED26D-1C55-4A8A-80C9-33D350625719}" WorkUnitID="{C1E8D710-CB3B-4C7D-92FC-A80CD6BD88DE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C1E8D710-CB3B-4C7D-92FC-A80CD6BD88DE}" SchemaVersion="89">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{C1E8D710-CB3B-4C7D-92FC-A80CD6BD88DE}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="sound98" ID="{8436DAF1-CEFD-4347-A721-B4CA70690173}" ShortID="947517038">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F27A0429-5FF1-48EE-B776-2CFECBB8BA2E}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7289FE3A-C4BA-40EA-B06B-2E0A27DF5267}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sound98" ID="{323D8821-2DD0-428F-9961-C21C917E49A9}" ShortID="856910174">
+							<Language>SFX</Language>
+							<AudioFile>sound98.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="sound98" ID="{323D8821-2DD0-428F-9961-C21C917E49A9}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="sound105" ID="{3A4ED26D-1C55-4A8A-80C9-33D350625719}" ShortID="507954800">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F27A0429-5FF1-48EE-B776-2CFECBB8BA2E}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{7289FE3A-C4BA-40EA-B06B-2E0A27DF5267}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="sound105" ID="{D022AEC3-7961-45F8-8205-38F59215F8EB}" ShortID="1001793502">
+							<Language>SFX</Language>
+							<AudioFile>sound105.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="sound105" ID="{D022AEC3-7961-45F8-8205-38F59215F8EB}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
