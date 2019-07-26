@@ -2,5 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	1381315407	Event2			\Default Work Unit\Event2	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	1001793502	sound105	C:\Users\krub_\Documents\Projects\WwiseUnityObbTest\WwiseUnityObbTest_WwiseProject\.cache\Windows\SFX\sound105_7544BA96.wem		\Actor-Mixer Hierarchy\Default Work Unit\sound105		359104
+	1001793502	sound105	Y:\Projects\Mobge\WwiseUnityObbTest\WwiseUnityObbTest_WwiseProject\.cache\Windows\SFX\sound105_7544BA96.wem		\Actor-Mixer Hierarchy\Default Work Unit\sound105		359104
 

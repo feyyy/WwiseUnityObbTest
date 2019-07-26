@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>/Users/RIZA/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Projects/Mobge/WwiseUnityObbTest/WwiseUnityObbTest_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/RIZA/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Projects/Mobge/WwiseUnityObbTest/WwiseUnityObbTest_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/RIZA/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Projects/Mobge/WwiseUnityObbTest/WwiseUnityObbTest_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/RIZA/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Projects/Mobge/WwiseUnityObbTest/WwiseUnityObbTest_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3445346556" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Bank1</ObjectPath>
+			<ShortName>Bank1</ShortName>
+			<Path>Bank1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1381315404" Name="Event1" ObjectPath="\Events\Default Work Unit\Event1"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="856910174" Language="SFX">
+					<ShortName>sound98.wav</ShortName>
+					<Path>SFX/sound98_7544BA96.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3445346559" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Bank2</ObjectPath>
+			<ShortName>Bank2</ShortName>
+			<Path>Bank2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1381315407" Name="Event2" ObjectPath="\Events\Default Work Unit\Event2"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="1001793502" Language="SFX">
+					<ShortName>sound105.wav</ShortName>
+					<Path>SFX/sound105_7544BA96.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

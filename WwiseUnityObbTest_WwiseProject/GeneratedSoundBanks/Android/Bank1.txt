@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1381315404	Event1			\Default Work Unit\Event1	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	856910174	sound98	Y:\Projects\Mobge\WwiseUnityObbTest\WwiseUnityObbTest_WwiseProject\.cache\Android\SFX\sound98_7544BA96.wem		\Actor-Mixer Hierarchy\Default Work Unit\sound98		317904
+

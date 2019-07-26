@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
 	<RootPaths>
-		<ProjectRoot>C:\Users\krub_\Documents\Projects\WwiseUnityObbTest\WwiseUnityObbTest_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\krub_\Documents\Projects\WwiseUnityObbTest\WwiseUnityObbTest_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\krub_\Documents\Projects\WwiseUnityObbTest\WwiseUnityObbTest_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>/Users/RIZA/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Projects/Mobge/WwiseUnityObbTest/WwiseUnityObbTest_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/RIZA/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Projects/Mobge/WwiseUnityObbTest/WwiseUnityObbTest_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/RIZA/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Projects/Mobge/WwiseUnityObbTest/WwiseUnityObbTest_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\krub_\Documents\Projects\WwiseUnityObbTest\WwiseUnityObbTest_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>/Users/RIZA/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Projects/Mobge/WwiseUnityObbTest/WwiseUnityObbTest_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -26,7 +26,7 @@
 			<IncludedMemoryFiles>
 				<File Id="856910174" Language="SFX">
 					<ShortName>sound98.wav</ShortName>
-					<Path>SFX\sound98_7544BA96.wem</Path>
+					<Path>SFX/sound98_7544BA96.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
@@ -40,7 +40,7 @@
 			<IncludedMemoryFiles>
 				<File Id="1001793502" Language="SFX">
 					<ShortName>sound105.wav</ShortName>
-					<Path>SFX\sound105_7544BA96.wem</Path>
+					<Path>SFX/sound105_7544BA96.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
